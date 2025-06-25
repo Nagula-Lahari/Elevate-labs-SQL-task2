@@ -63,3 +63,9 @@ The script is designed to be run from start to finish. It will first drop the da
 * **Best Practices:** Use of appropriate data types (e.g., `VARCHAR` for strings, `DECIMAL` for monetary values).
 
 ---
+## Screenshots
+![insert](https://github.com/user-attachments/assets/d6d4a705-23a1-4e41-bfc5-1d8450ee447b)
+![update](https://github.com/user-attachments/assets/0b6d54de-4add-48c3-b10a-f133d5ab8d4b)
+![delete](https://github.com/user-attachments/assets/0021fdec-5b73-43bc-8f99-34e2c31334c0)
+
+
